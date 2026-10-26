@@ -4,7 +4,7 @@
     "slug": "my-first-post",
     "date": "2026-10-26",
     "cover": "https://klab.tw/wp-content/uploads/2026/04/markdown-guide.jpg",
-    "excerpt": "This is my first blog post for the Carrd Blog project. I am testing whether the embed script can read this Markdown file and display it on my Carrd Home page Ba...",
+    "excerpt": "This is my first blog [post]{ 216e5b} for the Carrd Blog project. I am testing whether the embed script can read this Markdown file and display it on my Carrd s...",
     "path": "posts/first-post.md"
   }
 ]
