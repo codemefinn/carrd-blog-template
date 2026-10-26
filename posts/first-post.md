@@ -6,9 +6,21 @@ cover: https://klab.tw/wp-content/uploads/2026/04/markdown-guide.jpg
 ---
 
 
-This is my first blog [post]{#216e5b} for the Carrd Blog project.
+This is my first blog post for the Carrd Blog project.
 
 I am testing _whether_ the embed script can read this Markdown file and display it on my Carrd 
+
+# Title
+
+## Title
+
+### Title
+
+#### Title
+
+##### Title
+
+###### Title
 
 ~Subscript~
 
@@ -23,6 +35,8 @@ __underline__
 ||Spoilers||
 
 [Color]{pink}
+
+[Color code]{#216e5b}
 
 `<script>consoel.log('Hellow world')</script>`
 
