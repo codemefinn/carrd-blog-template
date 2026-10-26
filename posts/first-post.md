@@ -12,23 +12,31 @@ I am testing _whether_ the embed script can read this Markdown file and display 
 
 ~Subscript~
 
-^small^
+^Subscript^
 
-~~cancel~~
+~~Strike~~
 
 __underline__
 
-==heighkught==
+==highlight==
 
 ||Spoilers||
 
 [Color]{pink}
 
-`Code`
+`<script>consoel.log('Hellow world')</script>`
 
 [clipboard](clipboard:SALE50)
+
 [copy](copy:@caycepollard)
+
 [Back](browser:back)
+
 [Blog List](#blog)
+
 [Home page](#home)
-[Back to top](browser:top).
+
+[Back to top](browser:top)
+
+![img](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsxMiR35X7gIaAoPrdtTd0zgr2xb9fFgFstToFHHUhcKTAlU2QAhUiBlg&s=10)
+
