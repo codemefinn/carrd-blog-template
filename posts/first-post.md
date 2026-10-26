@@ -14,7 +14,6 @@ I am testing _whether_ the embed script can read this Markdown file and display 
 ## Title
 ### Title
 #### Title
-##### Title
 
 **Bold**  
 _Italic_  
@@ -39,5 +38,5 @@ __underline__
 [Home page](#home)  
 [Back to top](browser:top)  
 
-![img](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsxMiR35X7gIaAoPrdtTd0zgr2xb9fFgFstToFHHUhcKTAlU2QAhUiBlg&s=10){width=100}
+![img](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsxMiR35X7gIaAoPrdtTd0zgr2xb9fFgFstToFHHUhcKTAlU2QAhUiBlg&s=10){width=100px align=right}
 
