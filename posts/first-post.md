@@ -26,8 +26,8 @@ __underline__
 
 `Code`
 
-clipboard:SALE50
-copy:@caycepollard
+[clipboard](clipboard:SALE50)
+[copy](copy:@caycepollard)
 [Back](browser:back)
 [Blog List](#blog)
 [Home page](#home)
