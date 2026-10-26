@@ -16,28 +16,28 @@ I am testing _whether_ the embed script can read this Markdown file and display 
 #### Title
 ##### Title
 
-**Bold**
-_Italic_
-~~Strike~~
-__underline__
-==highlight==
-~Subscript~
-^Subscript^
+**Bold**  
+_Italic_  
+~~Strike~~  
+__underline__  
+==highlight==  
+~Subscript~  
+^Subscript^  
 
-||Spoilers||
+||Spoilers||  
 
-[Color]{pink}
-[Color code]{#216e5b}
+[Color]{pink}  
+[Color code]{#216e5b}  
 
-`<script>consoel.log('Hellow world')</script>`
+`<script>consoel.log('Hellow world')</script>`  
 
-[clipboard](clipboard:SALE50)
-[copy](copy:@caycepollard)
+[clipboard](clipboard:SALE50)  
+[copy](copy:@caycepollard)  
 
-[Back](browser:back)
-[Blog List](#blog)
-[Home page](#home)
-[Back to top](browser:top)
+[Back](browser:back)  
+[Blog List](#blog)  
+[Home page](#home)  
+[Back to top](browser:top)  
 
 ![img](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsxMiR35X7gIaAoPrdtTd0zgr2xb9fFgFstToFHHUhcKTAlU2QAhUiBlg&s=10){width=100}
 
