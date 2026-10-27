@@ -6,7 +6,7 @@ cover: https://klab.tw/wp-content/uploads/2026/04/markdown-guide.jpg
 ---
 
 
-This is my first blog post for the Carrd Blog project.
+This is my first blog post for the Carrd Blog project 1.
 
 I am testing _whether_ the embed script can read this Markdown file and display it on my Carrd 
 
