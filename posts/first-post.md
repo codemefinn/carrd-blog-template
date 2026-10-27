@@ -1,42 +1,34 @@
 ---
-title: My First Post
-slug: my-first-post
-date: 2026-10-26
-cover: https://klab.tw/wp-content/uploads/2026/04/markdown-guide.jpg
+title: "My First Blog Post"
+slug: "my-first-post"
+date: "2026-10-27"
+cover: "https://images.unsplash.com/photo-1499750310107-5fef28a66643"
+excerpt: "Welcome to my blog! This is a sample post to test the Carrd Blog template."
 ---
 
+## Welcome to My Blog
 
-This is my first blog post for the Carrd Blog project (a small change).
+This is my first blog post. I'm excited to share my thoughts, ideas, and experiences here.
 
-I am testing _whether_ the embed script can read this Markdown file and display it on my Carrd 
+### Why I Started This Blog
 
-# Title
-## Title
-### Title
-#### Title
+I created this blog to share useful information and document what I learn along the way.
 
-**Bold**  
-_Italic_  
-~~Strike~~  
-__underline__  
-==highlight==  
-~Subscript~  
-^Subscript^  
+Here are a few things I plan to write about:
 
-||Spoilers||  
+- Tutorials and guides
+- Personal experiences
+- Tips and resources
 
-[Color]{pink}  
-[Color code]{#216e5b}  
+### What to Expect
 
-`<script>consoel.log('Hellow world')</script>`  
+Each article will include a title, and an optional cover image.
 
-[clipboard](clipboard:SALE50)  
-[copy](copy:@caycepollard)  
+You can also include **bold text**, *italic text*, links, and other Markdown formatting in your articles.
 
-[Back](browser:back)  
-[Blog List](#blog)  
-[Home page](#home)  
-[Back to top](browser:top)  
 
-![img](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSsxMiR35X7gIaAoPrdtTd0zgr2xb9fFgFstToFHHUhcKTAlU2QAhUiBlg&s=10){width=100px align=right}
+### Final Thoughts
 
+Thanks for visiting my blog!
+
+I hope you find something useful here. Stay tuned for more articles.
