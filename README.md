@@ -30,8 +30,8 @@
    - `cover`: Cover image URL. Optional; remove this line if not needed.
    - `excerpt`: Short summary shown in the post list. Optional; an excerpt is generated automatically if omitted.
 
-5. Click **Commit changes** to save your post. GitHub Actions will automatically update `posts.json` after processing your changes.
-
+5. Click **Commit changes** to save your post. It may take a few minutes for your post to appear on your Carrd website.
+   
 ## 2. Supported Formatting
 
 All Carrd-supported text and link syntax is supported.
@@ -65,5 +65,6 @@ You can optionally add `{}` to control image width and alignment. These settings
 ![Image](https://example.com/image.jpg){width=80% align=center}
 ```
 
+### Line Breaks
 
-
+Line breaks(Enter) work normally on your Carrd website. However, they may not appear in GitHub's preview when you press Enter. If the preview looks different from what you expected, try adding two spaces at the end of a line before pressing Enter. This is optional and only affects the GitHub preview.
