@@ -6,7 +6,6 @@ name: Update posts.json
       - main
     paths:
       - "posts/**"
-      - "scripts/generate-posts.py"
       - ".github/workflows/update-posts.yml"
   workflow_dispatch:
 
@@ -29,8 +28,14 @@ jobs:
       - name: Install dependencies
         run: pip install PyYAML
 
+      - name: Download post generator
+        run: |
+          curl -fsSL \
+            https://raw.githubusercontent.com/codemefinn/carrd-blog-template/main/scripts/generate-posts.py \
+            -o /tmp/generate-posts.py
+
       - name: Generate posts.json
-        run: python scripts/generate-posts.py
+        run: python /tmp/generate-posts.py
 
       - name: Commit updated posts.json
         run: |
