@@ -1,7 +1,6 @@
-
 ---
 title: "My Second Blog Post"
-slug: "my-first-post"
+slug: "my-second-post"
 date: "2026-10-27"
 cover: "https://images.unsplash.com/photo-1499750310107-5fef28a66643"
 excerpt: "Welcome to my blog! This is a sample post to test the Carrd Blog template."
