@@ -1,1 +1,1 @@
-# carrd-blog-template
+# generate-posts.py script
