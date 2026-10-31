@@ -50,14 +50,14 @@ jobs:
           fi
           
       - name: Save final commit SHA
-          run: |
+        run: |
             git rev-parse HEAD > final-commit-sha.txt
             echo "Final commit SHA: $(cat final-commit-sha.txt)"
   
-        - name: Upload final commit SHA
-          uses: actions/upload-artifact@v4
-          with:
-            name: final-commit-sha
-            path: final-commit-sha.txt
-            retention-days: 7
-            if-no-files-found: error
+      - name: Upload final commit SHA
+        uses: actions/upload-artifact@v4
+        with:
+          name: final-commit-sha
+          path: final-commit-sha.txt
+          retention-days: 7
+          if-no-files-found: error
